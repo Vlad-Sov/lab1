@@ -1,0 +1,7 @@
+!Lab 1. Git Repository
+
+Good Idea!
+Lets continue!
+
+Making some changes.New Branch.
+111
