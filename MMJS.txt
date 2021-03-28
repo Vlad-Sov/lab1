@@ -1,7 +1,5 @@
-!Lab 1. Git Repository
+Перелік департаментів міністерства транспорту.
+Варіант 17
 
-Good Idea!
-Lets continue!
-
-Making some changes.New Branch.
-111
+Good Job!
+Very Good Job!
